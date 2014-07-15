@@ -1,0 +1,15 @@
+E -> a
+C -> b
+P -> c
+A -> d
+E C -> e
+E P -> f
+E A -> g
+C P -> h
+C A -> i
+P A -> j
+e P -> k
+e A -> l
+f A -> m
+h A -> n
+h g -> o
